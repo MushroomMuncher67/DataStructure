@@ -1,8 +1,11 @@
 #include <iostream>
 using namespace std;
 
+void greet() {
+    cout << "Hello from a function!";
+}
+
 int main() {
-    // This prints a welcome message
-    cout << "Hello C++!";
+    greet();
     return 0;
 }
