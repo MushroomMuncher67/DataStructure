@@ -1,0 +1,22 @@
+DSA Prelim Exam Note:
+
+(DONE)1. Create an integer array, composing of 10 elements, with values ranging from 20 to 60 (Unsorted Values)
+Then display the array using forloop.
+
+Unsorted Values : 25 21 45 44 30 23 50 35 56 60
+
+(DONE)2. Create a stack and queue that stores the content of the initial array (We're using insert here)
+Then pop 3 times on both stacks,
+then display the content of the stack and queue.
+
+(DONE)3. Combine the content of stack and queue into 1 container, then display/insert the stack first then the queue
+call it data merging and print the result to an array.
+
+(DONE)4. Create 4 sorting algorithm functions that we can call/refer to, that can apply onto an array.
+
+(DONE)5. Use chrono function, between running the 4 sorting algorithms, monitor/estimate the time complexity of every 
+sorting algorithm when running. (microseconds)
+
+Then make a conclusion for which one is the ideal algorithm.
+
+Thanks co-pilot!!!
